@@ -408,9 +408,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.64081552"
      inkscape:cx="839.91721"
-     inkscape:cy="731.08965"
+     inkscape:cy="481.40781"
      inkscape:document-units="mm"
-     inkscape:current-layer="g914"
+     inkscape:current-layer="layer11"
      showgrid="false"
      units="in"
      inkscape:window-width="1916"
@@ -456,11 +456,11 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Background"
-     style="display:inline;opacity:0.97000002">
+     style="display:inline;opacity:0.97000002"
+     sodipodi:insensitive="true">
     <g
        id="g11834"
-       transform="translate(-0.52916667)"
-       style="">
+       transform="translate(-0.52916667)">
       <rect
          ry="0"
          y="-0.0040783999"
@@ -479,14 +479,15 @@
          sodipodi:role="line"
          id="tspan11872"
          x="378.35416"
-         y="285.06924"
+         y="285.24637"
          style="stroke-width:0.26458332" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Arrows"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:6.93419981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6810)"
        d="M 130.80666,84.696581 H 99.057862"
@@ -523,11 +524,9 @@
        id="path1224-6-6"
        inkscape:connector-curvature="0" />
     <g
-       id="g10834"
-       style="">
+       id="g10834">
       <g
-         id="g10830"
-         style="">
+         id="g10830">
         <path
            style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:6.93419981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6810-0-44-3)"
            d="m 310.41362,289.55386 v -31.7488"
@@ -540,7 +539,8 @@
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="Info Box Background"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:#f0f0f0;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect13066"
@@ -558,64 +558,10 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="Crosswalk Locations"
-     style="display:none">
-    <rect
-       style="fill:#ffff00;stroke-width:0.26458332"
-       id="rect54"
-       width="14.111096"
-       height="197.55534"
-       x="169.33318"
-       y="14.111605" />
-    <rect
-       style="fill:#ffff00;stroke-width:0.26458332"
-       id="rect56"
-       width="14.111096"
-       height="141.11098"
-       x="324.55521"
-       y="14.111605" />
-    <rect
-       style="fill:#ffff00;stroke-width:0.26458332"
-       id="rect58"
-       width="126.99987"
-       height="14.111096"
-       x="197.55534"
-       y="225.77806" />
-    <rect
-       style="fill:#ffff00;stroke-width:0.26458332"
-       id="rect60"
-       width="14.111096"
-       height="197.55534"
-       x="14.111096"
-       y="14.111605" />
-    <rect
-       style="fill:#ffff00;stroke-width:0.26458332"
-       id="rect62"
-       width="14.111096"
-       height="141.11098"
-       x="479.77731"
-       y="14.111605" />
-    <rect
-       style="fill:#ffff00;stroke-width:0.26458332"
-       id="rect64"
-       width="126.99987"
-       height="14.111096"
-       x="197.55534"
-       y="479.7778" />
-    <rect
-       style="fill:#ffff00;fill-opacity:1;stroke-width:0.26458332"
-       id="rect80"
-       width="126.99987"
-       height="14.111096"
-       x="197.55534"
-       y="437.44452" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Crosswalks"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:#ffffff;fill-opacity:1;stroke-width:26.20800018;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 53.333984,280.00391 v 26.66797 h 53.332036 v -26.66797 z m 0,53.33398 v 26.66602 h 53.332036 v -26.66602 z"
@@ -738,7 +684,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Platforms"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:#808080;stroke-width:0.27496314"
        id="rect47"
@@ -801,8 +748,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer20"
-     inkscape:label="Box2"
-     style="display:inline">
+     inkscape:label="Box"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:2.3812499;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 508.00407,169.33061 H 338.66939 v 338.66938"
@@ -1775,7 +1723,7 @@
          y="179.9167"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:8.46666718px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan11844">Route                        <tspan
-   style="-inkscape-font-specification:'DejaVu Sans Bold Oblique';font-family:'DejaVu Sans';font-weight:bold;font-style:oblique;font-stretch:normal;font-variant:normal"
+   style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique'"
    id="tspan6433">Platform</tspan></tspan><tspan
          sodipodi:role="line"
          x="341.84161"
@@ -1960,7 +1908,7 @@
          x="341.84161"
          y="496.08005"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:8.46666718px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan12061">    <tspan
+         id="tspan12061"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:8.46666718px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#000000;fill-opacity:1"
    id="tspan12629">15, 23, 28,</tspan> 44, 45</tspan></text>
     <flowRoot
@@ -1987,7 +1935,7 @@
          style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="492.54456"
        y="206.97719"
        id="text12533"><tspan
@@ -1995,10 +1943,10 @@
          id="tspan12531"
          x="492.54456"
          y="206.97719"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">E</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">E</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.5639"
        y="226.64647"
        id="text12533-1"><tspan
@@ -2006,10 +1954,10 @@
          id="tspan12531-3"
          x="493.5639"
          y="226.64647"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">F</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">F</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.19235"
        y="233.49774"
        id="text12533-7"><tspan
@@ -2017,10 +1965,10 @@
          id="tspan12531-7"
          x="493.19235"
          y="233.49774"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">F</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">F</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.55151"
        y="294.55432"
        id="text12533-6"><tspan
@@ -2028,10 +1976,10 @@
          id="tspan12531-39"
          x="493.55151"
          y="294.55432"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">F</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">F</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.758"
        y="408.29514"
        id="text12533-10"><tspan
@@ -2039,10 +1987,10 @@
          id="tspan12531-4"
          x="493.758"
          y="408.29514"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">F</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">F</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.55151"
        y="424.92685"
        id="text12533-11"><tspan
@@ -2050,10 +1998,10 @@
          id="tspan12531-8"
          x="493.55151"
          y="424.92685"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">F</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">F</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.82959"
        y="287.2634"
        id="text12533-64"><tspan
@@ -2061,10 +2009,10 @@
          id="tspan12531-34"
          x="493.82959"
          y="287.2634"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">E</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">E</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.5376"
        y="251.71805"
        id="text12533-77"><tspan
@@ -2072,7 +2020,7 @@
          id="tspan12531-0"
          x="493.5376"
          y="251.71805"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">E</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">E</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot12609"
@@ -2097,7 +2045,7 @@
            y="1714.7587" /></flowRegion><flowPara
          id="flowPara12625" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="492.6904"
        y="197.69514"
        id="text12533-74"><tspan
@@ -2105,10 +2053,10 @@
          id="tspan12531-5"
          x="492.6904"
          y="197.69514"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">E</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">E</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="492.92767"
        y="216.2343"
        id="text12533-3"><tspan
@@ -2116,10 +2064,10 @@
          id="tspan12531-07"
          x="492.92767"
          y="216.2343"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">F</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">F</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.05545"
        y="312.5061"
        id="text12533-74-2"><tspan
@@ -2127,10 +2075,10 @@
          id="tspan12531-5-9"
          x="493.05545"
          y="312.5061"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">E</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">E</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.34741"
        y="330.29703"
        id="text12533-74-9"><tspan
@@ -2138,10 +2086,10 @@
          id="tspan12531-5-3"
          x="493.34741"
          y="330.29703"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">E</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">E</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="492.73877"
        y="269.36237"
        id="text12533-74-0"><tspan
@@ -2149,10 +2097,10 @@
          id="tspan12531-5-2"
          x="492.73877"
          y="269.36237"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">D</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">D</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.75885"
        y="347.92374"
        id="text12533-74-0-7"><tspan
@@ -2160,10 +2108,10 @@
          id="tspan12531-5-2-9"
          x="493.75885"
          y="347.92374"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">D</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">D</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.65475"
        y="400.20605"
        id="text12533-74-0-7-9"><tspan
@@ -2171,10 +2119,10 @@
          id="tspan12531-5-2-9-5"
          x="493.65475"
          y="400.20605"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">D</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">D</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.81262"
        y="355.87875"
        id="text12533-74-0-7-2"><tspan
@@ -2182,10 +2130,10 @@
          id="tspan12531-5-2-9-0"
          x="493.81262"
          y="355.87875"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">C</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">C</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.60617"
        y="373.47864"
        id="text12533-74-0-7-2-5"
@@ -2195,10 +2143,10 @@
          id="tspan12531-5-2-9-0-9"
          x="493.60617"
          y="373.47864"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">C</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">C</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.30957"
        y="259.47"
        id="text12533-74-0-7-2-6"><tspan
@@ -2206,10 +2154,10 @@
          id="tspan12531-5-2-9-0-5"
          x="493.30957"
          y="259.47"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">C</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">C</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="492.26254"
        y="435.04935"
        id="text12533-74-0-7-2-63"><tspan
@@ -2217,10 +2165,10 @@
          id="tspan12531-5-2-9-0-0"
          x="492.26254"
          y="435.04935"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">C</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">C</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.64432"
        y="382.17883"
        id="text12533-64-2"><tspan
@@ -2228,10 +2176,10 @@
          id="tspan12531-34-0"
          x="493.64432"
          y="382.17883"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">E</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">E</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="492.97205"
        y="451.96216"
        id="text12533-64-2-7"><tspan
@@ -2239,10 +2187,10 @@
          id="tspan12531-34-0-4"
          x="492.97205"
          y="451.96216"
-         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';stroke-width:0.26458332;">E</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';stroke-width:0.26458332">E</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="493.15454"
        y="470.10007"
        id="text12533-64-2-73"><tspan
@@ -2250,10 +2198,10 @@
          id="tspan12531-34-0-0"
          x="493.15454"
          y="470.10007"
-         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';stroke-width:0.26458332;">E</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Oblique';stroke-width:0.26458332">E</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:2.6099999px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="492.29337"
        y="489.18842"
        id="text12533-74-0-7-2-63-7"><tspan
@@ -2261,89 +2209,7 @@
          id="tspan12531-5-2-9-0-0-5"
          x="492.29337"
          y="489.18842"
-         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332;">A</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="Bus Routes Frequent Small"
-     style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="353.1532"
-       y="41.55904"
-       id="text219"><tspan
-         sodipodi:role="line"
-         id="tspan217"
-         x="353.1532"
-         y="41.55904"
-         style="font-weight:bold;stroke-width:0.26458332">1 - Harvard via Mass Ave</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="31.277683"
-       y="133.78514"
-       id="text219-3-5-3"><tspan
-         sodipodi:role="line"
-         x="31.277683"
-         y="133.78514"
-         style="font-weight:bold;stroke-width:0.26458332"
-         id="tspan284-94">19 - Fields Corner</tspan><tspan
-         sodipodi:role="line"
-         x="31.277683"
-         y="140.39972"
-         style="font-weight:bold;stroke-width:0.26458332"
-         id="tspan398">23 - Ashmont</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-466.62256"
-       y="303.28186"
-       id="text219-3-5-1-4"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         x="-466.62256"
-         y="303.28186"
-         style="font-weight:bold;stroke-width:0.26458332"
-         id="tspan284-9-5">66 - Harvard</tspan><tspan
-         sodipodi:role="line"
-         x="-466.62256"
-         y="309.89645"
-         style="font-weight:bold;stroke-width:0.26458332"
-         id="tspan430">via Brookline and Allston</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="126.26801"
-       y="133.05801"
-       id="text219-3-5-1-47"><tspan
-         sodipodi:role="line"
-         x="126.26801"
-         y="133.05801"
-         style="font-weight:bold;stroke-width:0.26458332"
-         id="tspan284-9-6">14 - Roslindale Sq</tspan><tspan
-         sodipodi:role="line"
-         x="126.26801"
-         y="139.67259"
-         style="font-weight:bold;stroke-width:0.26458332"
-         id="tspan478">28 - Mattapan</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:6.61458349px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="115.7258"
-       y="189.90605"
-       id="text219-3-5-1-45"><tspan
-         sodipodi:role="line"
-         x="115.7258"
-         y="189.90605"
-         style="font-weight:bold;stroke-width:0.26458332"
-         id="tspan284-9-2">15 - Kane Sq</tspan><tspan
-         sodipodi:role="line"
-         x="115.7258"
-         y="196.52063"
-         style="font-weight:bold;stroke-width:0.26458332"
-         id="tspan508">(offpeak continues to Fields Corner)</tspan></text>
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';stroke-width:0.26458332">A</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
