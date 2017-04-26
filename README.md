@@ -4,3 +4,5 @@ Dudley Station connects 17 different bus lines, managing 16,000 boardings per we
 
 Feedback is very welcome, whether it's about design, factual errors, or MBTA intellectual property policies. I'm also looking for more examples of bus platform maps to compare to.
 [Ashmont](other_maps/Ashmont_Platform_Map.jpg) has a map, and [London](https://tfl.gov.uk/maps_/bus-spider-maps) has some [good examples](http://content.tfl.gov.uk/bus-route-maps/elephant-castle-0716.pdf). Open an issue [here](https://github.com/skyqrose/dudley-station-map/issues/new).
+
+[License](LICENSE.md)
