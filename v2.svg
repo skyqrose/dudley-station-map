@@ -220,11 +220,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.74523508"
-     inkscape:cx="876.17944"
+     inkscape:cx="275.54326"
      inkscape:cy="497.79136"
      inkscape:document-units="in"
-     inkscape:current-layer="svg8"
-     showgrid="true"
+     inkscape:current-layer="layer5"
+     showgrid="false"
      units="in"
      width="11in"
      showborder="true"
@@ -318,27 +318,303 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-81.1)"
-     style="display:none;opacity:1"
-     sodipodi:insensitive="true">
+     style="display:none;opacity:1">
     <rect
-       style="opacity:1;fill:none;fill-opacity:0.30196078;stroke:#000000;stroke-width:0.26457781;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:0.30196078;stroke:#000000;stroke-width:0.27997714;stroke-opacity:1"
        id="rect5450"
-       width="253.98943"
-       height="190.5"
-       x="12.705289"
-       y="93.794708" />
+       width="266.67401"
+       height="203.17403"
+       x="6.3629885"
+       y="87.462982" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="Small Scale"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Platforms"
+       style="display:inline;opacity:0.97000002">
+      <rect
+         style="display:inline;fill:#808080;stroke-width:0.07733363"
+         id="rect47-2"
+         width="107.15654"
+         height="7.9375162"
+         x="55.562576"
+         y="43.655937"
+         ry="1.98461" />
+      <rect
+         style="display:inline;fill:#808080;stroke-width:0.07441427"
+         id="rect49-8"
+         width="142.87531"
+         height="7.9375162"
+         x="31.750004"
+         y="59.531193"
+         ry="1.9843893" />
+      <rect
+         style="display:inline;fill:#808080;stroke-width:0.07441427"
+         id="rect51-3"
+         width="55.562611"
+         height="7.9375162"
+         x="31.750004"
+         y="75.406052"
+         ry="1.9845515" />
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.07441427"
+         id="rect76-6"
+         width="7.9375162"
+         height="71.437653"
+         x="107.15641"
+         y="91.281082"
+         ry="1.9845248" />
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.07441427"
+         id="rect78-7"
+         width="3.9687581"
+         height="71.437653"
+         x="95.250145"
+         y="91.281082"
+         ry="1.9843791" />
+      <path
+         style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.08525227"
+         d="m 33.734337,91.28128 c -1.099349,0 -1.984337,0.884987 -1.984337,1.984337 v 5.953134 h 47.625151 v 75.406239 h 5.953126 c 1.09935,0 1.984337,-0.88498 1.984337,-1.98433 V 93.265617 c 0,-1.09935 -0.884987,-1.984337 -1.984337,-1.984337 z"
+         id="rect93-8"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.1603824"
+         d="m 31.75,31.74999 v 1.984338 c 0,1.09935 0.884988,1.984325 1.984337,1.984325 H 172.64096 c 1.09935,0 1.98448,-0.884975 1.98448,-1.984325 V 31.74999 Z"
+         id="rect1194-7"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.07758228"
+         d="m 125.18848,75.406179 c -1.19494,0 -2.157,0.962062 -2.157,2.157 V 172.468 c 0,1.19493 0.96206,2.15699 2.157,2.15699 h 1.81181 V 79.374992 h 47.62515 v -1.811813 c 0,-1.194938 -0.96206,-2.157 -2.15699,-2.157 z"
+         id="rect1219-2"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer8"
+       inkscape:label="Platform Labels Old"
+       style="display:inline">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot99"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
+         transform="matrix(0,-0.07441429,0.07441429,0,41.730499,152.77356)"><flowRegion
+           id="flowRegion101"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"><rect
+             id="rect103"
+             width="373.33325"
+             height="53.333179"
+             x="166.66663"
+             y="965.71674"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
+           id="flowPara133">Platform C</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
+           id="flowPara199" /></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot99-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
+         transform="matrix(0.07441429,0,0,0.07441429,56.625638,-5.9891356)"><flowRegion
+           id="flowRegion101-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"><rect
+             id="rect103-6"
+             width="373.33325"
+             height="53.333179"
+             x="166.66663"
+             y="965.71674"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
+           id="flowPara201">Platform E</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot99-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
+         transform="matrix(0,-0.07441429,0.07441429,0,13.897799,152.68672)"><flowRegion
+           id="flowRegion101-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"><rect
+             id="rect103-2"
+             width="373.33325"
+             height="53.333179"
+             x="166.66663"
+             y="965.71674"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
+           id="flowPara133-7">Platform A</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot99-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
+         transform="matrix(0.07441429,0,0,0.07441429,95.958901,-25.903828)"><flowRegion
+           id="flowRegion101-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"><rect
+             id="rect103-3"
+             width="373.33325"
+             height="53.333179"
+             x="166.66663"
+             y="965.71674"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
+           id="flowPara133-6">Platform F</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot99-06"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
+         transform="matrix(0.07441429,0,0,0.07441429,34.195038,9.8859023)"><flowRegion
+           id="flowRegion101-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"><rect
+             id="rect103-61"
+             width="373.33325"
+             height="53.333179"
+             x="166.66663"
+             y="965.71674"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
+           id="flowPara133-8">Platform D</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot99-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
+         transform="matrix(0.07441429,0,0,0.07441429,123.52763,-10.028784)"><flowRegion
+           id="flowRegion101-92"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"><rect
+             id="rect103-0"
+             width="373.33325"
+             height="53.333179"
+             x="166.66663"
+             y="965.71674"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
+           id="flowPara133-2">Silver Line</flowPara></flowRoot>    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="Arrows"
+       style="display:inline">
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#path1224-6-5-4"
+         id="use20936"
+         transform="translate(80.460925,-102.95915)"
+         width="100%"
+         height="100%" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#path1224-6-5-4"
+         id="use24402"
+         transform="translate(183.33486,-103.19985)"
+         width="100%"
+         height="100%" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#path1224-6-5-4"
+         id="use24828"
+         transform="translate(183.64389,-119.0915)"
+         width="100%"
+         height="100%" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#path1224-6-5-4"
+         id="use25192"
+         transform="translate(79.886725,-118.99979)"
+         width="100%"
+         height="100%" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#path1224-6-5-4"
+         id="use26216"
+         transform="matrix(-1,0,0,1,40.656538,-87.442992)"
+         width="100%"
+         height="100%" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#path1224-6-5-4"
+         id="use26580"
+         transform="matrix(-1,0,0,1,124.42376,-87.343749)"
+         width="100%"
+         height="100%" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#path1224-6-5-4"
+         id="use26974"
+         transform="matrix(-1,0,0,1,40.451338,-71.517526)"
+         width="100%"
+         height="100%" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#path1224-6-5-4"
+         id="use27368"
+         transform="matrix(0,1,1,0,-39.630249,143.58205)"
+         width="100%"
+         height="100%" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#path1224-6-5-4"
+         id="use27858"
+         transform="rotate(90,53.204977,196.86988)"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="Roads"
+       style="display:inline">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g14571"
+         id="use14573"
+         transform="translate(196.85,-19.05)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g14571"
+         id="use14575"
+         transform="rotate(180,4.762497,85.725)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g14571"
+         id="use14577"
+         transform="rotate(90,1.5874966,198.4375)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g14571"
+         id="use14577-1"
+         transform="rotate(90,-3.1750004,203.2)"
+         width="100%"
+         height="100%" />
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer13"
        inkscape:label="Bus Numbers"
-       style="display:none">
+       style="display:inline">
       <g
          id="use14799"
          transform="translate(165.17013,16.598603)">
@@ -1303,7 +1579,7 @@
        inkscape:groupmode="layer"
        id="layer11"
        inkscape:label="Road Text"
-       style="display:none">
+       style="display:inline">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:6.61458302px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1347,136 +1623,9 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       id="layer10"
-       inkscape:label="Roads"
-       style="display:none">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g14571"
-         id="use14573"
-         transform="translate(196.85,-19.05)"
-         width="100%"
-         height="100%" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g14571"
-         id="use14575"
-         transform="rotate(180,4.762497,85.725)"
-         width="100%"
-         height="100%" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g14571"
-         id="use14577"
-         transform="rotate(90,1.5874966,198.4375)"
-         width="100%"
-         height="100%" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g14571"
-         id="use14577-1"
-         transform="rotate(90,-3.1750004,203.2)"
-         width="100%"
-         height="100%" />
-    </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer9"
-       inkscape:label="Arrows"
-       style="display:none"
-       sodipodi:insensitive="true">
-      <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#path1224-6-5-4"
-         id="use20936"
-         transform="translate(80.460925,-102.95915)"
-         width="100%"
-         height="100%" />
-      <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#path1224-6-5-4"
-         id="use24402"
-         transform="translate(183.33486,-103.19985)"
-         width="100%"
-         height="100%" />
-      <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#path1224-6-5-4"
-         id="use24828"
-         transform="translate(183.64389,-119.0915)"
-         width="100%"
-         height="100%" />
-      <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#path1224-6-5-4"
-         id="use25192"
-         transform="translate(79.886725,-118.99979)"
-         width="100%"
-         height="100%" />
-      <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#path1224-6-5-4"
-         id="use26216"
-         transform="matrix(-1,0,0,1,40.656538,-87.442992)"
-         width="100%"
-         height="100%" />
-      <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#path1224-6-5-4"
-         id="use26580"
-         transform="matrix(-1,0,0,1,124.42376,-87.343749)"
-         width="100%"
-         height="100%" />
-      <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#path1224-6-5-4"
-         id="use26974"
-         transform="matrix(-1,0,0,1,40.451338,-71.517526)"
-         width="100%"
-         height="100%" />
-      <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#path1224-6-5-4"
-         id="use27368"
-         transform="matrix(0,1,1,0,-39.630249,143.58205)"
-         width="100%"
-         height="100%" />
-      <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#path1224-6-5-4"
-         id="use27858"
-         transform="rotate(90,53.204977,196.86988)"
-         width="100%"
-         height="100%" />
-    </g>
-    <g
-       inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="Crosswalks"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <path
          style="display:inline;fill:#e6e6e6;fill-opacity:1;stroke-width:1.95024979;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 35.7188,52.585853 v 1.984464 h 3.968662 v -1.984464 z m 0,3.968801 v 1.98435 h 3.968662 v -1.98435 z"
@@ -1591,160 +1740,6 @@
          style="display:inline;fill:#e6e6e6;fill-opacity:1;stroke-width:1.95024979;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 88.305302,166.68751 v 3.96867 h 1.984475 v -3.96867 z m 3.9688,0 v 3.96867 h 1.984337 1.5e-4 v -3.96867 h -1.5e-4 z m 3.968812,0 v 3.96867 h 1.984341 v -3.96867 z m 3.968826,0 v 3.96867 h 1.98448 v -3.96867 z m 3.9688,0 v 3.96867 h 1.98434 v -3.96867 z m 3.96881,0 v 3.96867 h 1.98447 v -3.96867 z m 3.96882,0 v 3.96867 h 1.98433 v -3.96867 z m 3.96866,0 v 3.96867 h 1.98448 v -3.96867 z m 3.96881,0 v 3.96867 h 1.98434 v -3.96867 z"
          id="rect6925-8-9-5"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer8"
-       inkscape:label="Platform Labels Old"
-       style="display:none">
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot99"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
-         transform="matrix(0,-0.07441429,0.07441429,0,41.730499,152.77356)"><flowRegion
-           id="flowRegion101"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"><rect
-             id="rect103"
-             width="373.33325"
-             height="53.333179"
-             x="166.66663"
-             y="965.71674"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
-           id="flowPara133">Platform C</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
-           id="flowPara199" /></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot99-3"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
-         transform="matrix(0.07441429,0,0,0.07441429,56.625638,-5.9891356)"><flowRegion
-           id="flowRegion101-5"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"><rect
-             id="rect103-6"
-             width="373.33325"
-             height="53.333179"
-             x="166.66663"
-             y="965.71674"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
-           id="flowPara201">Platform E</flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot99-9"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
-         transform="matrix(0,-0.07441429,0.07441429,0,13.897799,152.68672)"><flowRegion
-           id="flowRegion101-1"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"><rect
-             id="rect103-2"
-             width="373.33325"
-             height="53.333179"
-             x="166.66663"
-             y="965.71674"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
-           id="flowPara133-7">Platform A</flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot99-0"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
-         transform="matrix(0.07441429,0,0,0.07441429,95.958901,-25.903828)"><flowRegion
-           id="flowRegion101-9"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"><rect
-             id="rect103-3"
-             width="373.33325"
-             height="53.333179"
-             x="166.66663"
-             y="965.71674"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
-           id="flowPara133-6">Platform F</flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot99-06"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
-         transform="matrix(0.07441429,0,0,0.07441429,34.195038,9.8859023)"><flowRegion
-           id="flowRegion101-2"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"><rect
-             id="rect103-61"
-             width="373.33325"
-             height="53.333179"
-             x="166.66663"
-             y="965.71674"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
-           id="flowPara133-8">Platform D</flowPara></flowRoot>      <flowRoot
-         xml:space="preserve"
-         id="flowRoot99-7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#dcdcdc;fill-opacity:1;stroke:none"
-         transform="matrix(0.07441429,0,0,0.07441429,123.52763,-10.028784)"><flowRegion
-           id="flowRegion101-92"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"><rect
-             id="rect103-0"
-             width="373.33325"
-             height="53.333179"
-             x="166.66663"
-             y="965.71674"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.33333588px;line-height:0px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#dcdcdc;fill-opacity:1"
-           id="flowPara133-2">Silver Line</flowPara></flowRoot>    </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer2"
-       inkscape:label="Platforms"
-       style="display:none;opacity:0.97000002"
-       sodipodi:insensitive="true">
-      <rect
-         style="display:inline;fill:#808080;stroke-width:0.07733363"
-         id="rect47-2"
-         width="107.15654"
-         height="7.9375162"
-         x="55.562576"
-         y="43.655937"
-         ry="1.98461" />
-      <rect
-         style="display:inline;fill:#808080;stroke-width:0.07441427"
-         id="rect49-8"
-         width="142.87531"
-         height="7.9375162"
-         x="31.750004"
-         y="59.531193"
-         ry="1.9843893" />
-      <rect
-         style="display:inline;fill:#808080;stroke-width:0.07441427"
-         id="rect51-3"
-         width="55.562611"
-         height="7.9375162"
-         x="31.750004"
-         y="75.406052"
-         ry="1.9845515" />
-      <rect
-         style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.07441427"
-         id="rect76-6"
-         width="7.9375162"
-         height="71.437653"
-         x="107.15641"
-         y="91.281082"
-         ry="1.9845248" />
-      <rect
-         style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.07441427"
-         id="rect78-7"
-         width="3.9687581"
-         height="71.437653"
-         x="95.250145"
-         y="91.281082"
-         ry="1.9843791" />
-      <path
-         style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.08525227"
-         d="m 33.734337,91.28128 c -1.099349,0 -1.984337,0.884987 -1.984337,1.984337 v 5.953134 h 47.625151 v 75.406239 h 5.953126 c 1.09935,0 1.984337,-0.88498 1.984337,-1.98433 V 93.265617 c 0,-1.09935 -0.884987,-1.984337 -1.984337,-1.984337 z"
-         id="rect93-8"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.1603824"
-         d="m 31.75,31.74999 v 1.984338 c 0,1.09935 0.884988,1.984325 1.984337,1.984325 H 172.64096 c 1.09935,0 1.98448,-0.884975 1.98448,-1.984325 V 31.74999 Z"
-         id="rect1194-7"
-         inkscape:connector-curvature="0" />
-      <path
-         style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.07758228"
-         d="m 125.18848,75.406179 c -1.19494,0 -2.157,0.962062 -2.157,2.157 V 172.468 c 0,1.19493 0.96206,2.15699 2.157,2.15699 h 1.81181 V 79.374992 h 47.62515 v -1.811813 c 0,-1.194938 -0.96206,-2.157 -2.15699,-2.157 z"
-         id="rect1219-2"
          inkscape:connector-curvature="0" />
     </g>
   </g>
@@ -2479,12 +2474,15 @@
        x="146.04872"
        y="99.471321"
        ry="2.1166666" />
+    <rect
+       style="opacity:0.62999998;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect9131"
+       width="19.049238"
+       height="4.2336717"
+       x="152.39391"
+       y="99.474022"
+       ry="1.5875" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="Label Boxes"
-     style="display:none" />
   <g
      inkscape:groupmode="layer"
      id="layer15"
@@ -3686,12 +3684,4 @@
        inkscape:label="Row Backgrounds"
        style="display:none" />
   </g>
-  <rect
-     style="opacity:0.62999998;fill:#333333;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
-     id="rect9131"
-     width="19.049238"
-     height="4.2336717"
-     x="152.39391"
-     y="99.474022"
-     ry="1.5875" />
 </svg>
