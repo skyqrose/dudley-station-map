@@ -240,9 +240,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0539216"
-     inkscape:cx="245.37679"
-     inkscape:cy="377.77446"
+     inkscape:zoom="1.4904702"
+     inkscape:cx="278.10115"
+     inkscape:cy="492.7272"
      inkscape:document-units="in"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -260,7 +260,7 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-global="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:object-nodes="true"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -2525,7 +2525,7 @@
        height="6.3500004"
        x="16.932062"
        y="23.266399"
-       ry="2.116667" />
+       ry="2.1183605" />
     <rect
        style="opacity:1;fill:#b9b9b9;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect5330"
@@ -2533,7 +2533,7 @@
        height="12.700003"
        x="16.932062"
        y="48.666393"
-       ry="2.8222227" />
+       ry="2.1203988" />
     <rect
        style="opacity:1;fill:#b9b9b9;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect5332"
@@ -2541,7 +2541,7 @@
        height="12.700004"
        x="16.932064"
        y="80.416405"
-       ry="2.8222232" />
+       ry="2.1229272" />
     <rect
        style="opacity:1;fill:#b9b9b9;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect5334"
@@ -2549,7 +2549,7 @@
        height="12.7"
        x="16.932064"
        y="112.1664"
-       ry="2.8222222" />
+       ry="2.1254749" />
     <rect
        style="opacity:1;fill:#b9b9b9;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect5338"
@@ -2557,7 +2557,7 @@
        height="12.7"
        x="16.932062"
        y="143.9164"
-       ry="2.8222311" />
+       ry="2.1280148" />
     <rect
        style="opacity:1;fill:#b9b9b9;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect5340"
@@ -2565,7 +2565,7 @@
        height="31.75"
        x="82.548729"
        y="156.62131"
-       ry="1.5119046" />
+       ry="2.1241207" />
     <rect
        style="opacity:1;fill:#b9b9b9;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect5342"
@@ -2581,7 +2581,7 @@
        height="76.199997"
        x="146.04872"
        y="112.17133"
-       ry="1.8142855" />
+       ry="2.1205387" />
     <rect
        style="opacity:1;fill:#b9b9b9;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect9131"
@@ -2589,7 +2589,7 @@
        height="4.2336717"
        x="152.39391"
        y="112.17453"
-       ry="1.5875" />
+       ry="2.1168358" />
   </g>
   <g
      inkscape:groupmode="layer"
