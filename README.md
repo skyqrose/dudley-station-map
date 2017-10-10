@@ -8,4 +8,6 @@ I'm collecting a list of maps of Dudley Station [here](other_maps), as well as o
 
 Feedback is very welcome, whether it's about design, factual errors, or MBTA intellectual property policies.
 
+Disclaimer: I work for the MBTA, but this is an unofficial project done in my free time.
+
 [License](LICENSE.md)
