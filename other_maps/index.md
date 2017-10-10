@@ -40,11 +40,13 @@ If you find more maps, please send them to me.
 
 ## Other MBTA station maps
 
-These photos were all taken by me.
-
 * Ashmont
 
 <img alt="Map of bus platforms at Ashmont Station" src="Ashmont_Platform_Map.jpg">
+
+* Orient Heights
+
+<img alt="Platform map of Orient Heights" src="orient_heights.jpg">
 
 * Alewife
 
