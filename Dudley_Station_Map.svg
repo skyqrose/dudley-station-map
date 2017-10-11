@@ -406,10 +406,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.68825315"
-     inkscape:cx="353.35757"
-     inkscape:cy="423.03372"
+     inkscape:cx="407.85917"
+     inkscape:cy="497.24467"
      inkscape:document-units="in"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="layer26"
      showgrid="false"
      units="in"
      width="11in"
@@ -424,7 +424,7 @@
      showguides="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-nodes="true"
      inkscape:object-nodes="true"
      inkscape:snap-bbox-midpoints="false"
@@ -521,7 +521,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="opacity:0.95099996;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25399998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25399998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect8811"
        width="279.39999"
        height="215.89999"
@@ -3094,31 +3094,6 @@
      inkscape:label="Title"
      style="display:inline"
      sodipodi:insensitive="true">
-    <g
-       style="display:inline"
-       transform="matrix(0.03551617,0,0,-0.03551617,21.063231,21.132504)"
-       inkscape:label="ink_ext_XXXXXX"
-       id="g7561">
-      <g
-         transform="scale(0.1)"
-         id="g7563">
-        <path
-           inkscape:connector-curvature="0"
-           id="path7565"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="M 0,0 H 4320 V 4320 H 0 Z" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path7567"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="M 3908.26,1767.95 C 3778.37,1173.23 3289.39,631.469 2722.38,454.078 2595.98,414.531 2382.06,373.789 2246.97,363.52 1142.95,279.68 200.859,1314.27 370.742,2423.96 c 142.656,931.9 973.458,1605.47 1899.948,1540.42 684.57,-48.08 1313.39,-503.25 1558.02,-1127.81 109.94,-280.63 145.95,-764.61 79.55,-1068.62 z m -1142.81,2248.6 c -345.7,119.93 -898.29,119.84 -1235.6,-0.19 C 740.531,3735.47 213.555,2999.57 213.555,2178.23 213.555,1625.9 393.434,1188 783.703,790.27 1034.38,534.801 1236.05,411.109 1588.79,296.461 c 303.44,-98.609 823.48,-96.969 1145.17,3.59 703.86,220.058 1235.96,855.499 1343.25,1604.089 131.2,915.44 -419.98,1803.03 -1311.76,2112.41" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path7569"
-           style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           d="M 1797.37,2512.83 H 893.645 V 3065.8 H 3408.35 v -552.97 h -943 V 932.93 h -667.98 v 1579.9" />
-      </g>
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:6px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -3130,6 +3105,20 @@
          x="43.686195"
          y="19.519175"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.34444618px;font-family:helvetica;-inkscape-font-specification:helvetica;stroke-width:0.26458332">Dudley Station</tspan></text>
+    <g
+       id="g1461"
+       transform="matrix(0.02683346,0,0,0.02683346,23.227843,6.333236)">
+      <circle
+         id="circle1447"
+         r="239"
+         cy="250"
+         cx="250"
+         style="fill:#ffffff;stroke:#000000;stroke-width:22" />
+      <path
+         id="path1449"
+         d="m 85,127.5 h 330 v 76.25 H 292.5 v 204 H 208 v -204 H 85.5 Z"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
   <rect
      style="opacity:0.95099996;fill:none;fill-opacity:1;stroke:none;stroke-width:0.25399998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
