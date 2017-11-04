@@ -405,11 +405,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7530126"
-     inkscape:cx="160.61339"
-     inkscape:cy="168.53555"
+     inkscape:zoom="0.97333694"
+     inkscape:cx="613.64622"
+     inkscape:cy="406.52687"
      inkscape:document-units="in"
-     inkscape:current-layer="layer23"
+     inkscape:current-layer="svg8"
      showgrid="false"
      units="in"
      width="11in"
@@ -532,7 +532,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Prototypes"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        transform="translate(-0.33408691,2.2222652)"
        id="g14695" />
@@ -1622,7 +1623,8 @@
      inkscape:groupmode="layer"
      id="layer23"
      inkscape:label="Icons"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g1412"
        transform="translate(0,-0.01165972)">
@@ -1694,7 +1696,7 @@
        transform="matrix(0.04589257,0,0,0.04589257,25.046445,157.68139)">
       <polygon
          id="polygon786"
-         points="56.674,91.756 48.129,91.756 48.129,0.833 56.674,0.833 " />
+         points="48.129,0.833 56.674,0.833 56.674,91.756 48.129,91.756 " />
       <path
          id="path788"
          d="M 52.403,46.267"
@@ -3099,7 +3101,7 @@
          x="6.3077888"
          y="208.96382"
          style="line-height:3.52777767px;stroke-width:0.26458332"
-         id="tspan8557">github.com/skyqrose/dudley-station-map</tspan></text>
+         id="tspan8557">skyqrose.github.io/dudley-station-map</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
