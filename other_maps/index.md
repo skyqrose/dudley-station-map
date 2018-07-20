@@ -36,19 +36,39 @@ If you find more maps, please send them to me.
 
 * [Miles on the MBTA's review of Dudley station, 2014](http://milesonthembta.blogspot.com/2014/06/dudley.html)
 
+## A new MBTA standard
+
+The MBTA has begun to standardize on this map style.
+I don't like the style (having to remember a berth letter/number requires extra mental load, the lack of color makes the maps hard to navigate, and there's too much irrelevant detail),
+but it's more important that these maps are widespread and consistent than that they're good.
+
+Right now I only know of these two examples. Please make more, MBTA!
+
+* Orient Heights
+
+<img alt="Photo of a map of bus platforms at Orient Heights" src="orient_heights.jpg">
+
+[PDF]("orient_heights.pdf")
+
+* Sullivan Lower Busway Construction
+
+<img alt="Photo of a map posted on a chain link fence of the temporary lower busway at Sullivan" src="sullivan_construction.jpg">
+
+[PDF]("sullivan_construction.pdf")
+
 ## Other MBTA station maps
 
 * Ashmont
 
 <img alt="Map of bus platforms at Ashmont Station" src="Ashmont_Platform_Map.jpg">
 
-* Orient Heights
-
-<img alt="Map of bus platforms at Orient Heights" src="orient_heights.jpg">
-
 * Alewife
 
 <img alt="Map of exits from Alewife Station" src="alewife.jpg">
+
+* Downtown Crossing, at 101 Arch St
+
+<img alt="Photo of a simple map of downtown crossing station, on a plaque with a golden background." src="dtx.jpg">
 
 * Copely
 
@@ -61,6 +81,10 @@ If you find more maps, please send them to me.
 * Park St elevator detour to DTX
 
 <img alt="Park St elevator alert with detour to DTX" src="park_st_elevator_detour.jpg">
+
+* Emergency Training Center, under Broadway
+
+<img alt="Photo of a map of the Emergency Training Center" src="etc.jpg">
 
 * I also have maps of Dudley and Harvard platforms made by MBTA but never used, that I've been asked not to post publicly.
 
